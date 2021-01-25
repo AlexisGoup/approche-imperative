@@ -4,9 +4,9 @@ public class DeclarationApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		byte a = 125;
+		byte a = 127;
 		short b = 30000; 
-		int c = 1000000;
+		int c = 053;
 		long d = 1000000000;
 		float e = 1.2484484F;
 		double f = 151515146515464D;
@@ -22,7 +22,7 @@ public class DeclarationApp {
 		
 		System.out.println(i);
 		System.out.println(randmonString);
-		System.out.println(v);
+		System.out.println(c);
 	}
 
 }
